@@ -1,3 +1,33 @@
+## rosbridge_suite (jazzy) - 1.3.2-4
+
+The packages in the `rosbridge_suite` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rosbridge_suite --override-release-repository-push-url git@github.com:revyos-ros/rosbridge_suite-release` on `Wed, 26 Jun 2024 13:31:37 -0000`
+
+These packages were released:
+- `rosapi`
+- `rosapi_msgs`
+- `rosbridge_library`
+- `rosbridge_msgs`
+- `rosbridge_server`
+- `rosbridge_suite`
+- `rosbridge_test_msgs`
+
+Version of package(s) in repository `rosbridge_suite`:
+
+- upstream repository: https://github.com/RobotWebTools/rosbridge_suite.git
+- release repository: https://github.com/revyos-ros/rosbridge_suite-release.git
+- rosdistro version: `1.3.2-3`
+- old version: `1.3.2-3`
+- new version: `1.3.2-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rosbridge_suite (rolling) - 1.3.2-1
 
 The packages in the `rosbridge_suite` repository were released into the `rolling` distro by running `/home/vscode/.local/bin/bloom-release rosbridge_suite --rosdistro rolling` on `Wed, 27 Sep 2023 15:09:57 -0000`
