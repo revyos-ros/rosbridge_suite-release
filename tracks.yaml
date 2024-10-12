@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/rosbridge_suite-release
+release_repo_url: git@github.com:revyos-ros/rosbridge_suite-release.git
 tracks:
   dashing:
     actions:
